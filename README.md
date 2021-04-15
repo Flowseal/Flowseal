@@ -17,4 +17,6 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC4RpPf2m3AgdWO7lFTKFfyw)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=FFFFFF)](https://steamcommunity.com/id/SAAC-/)
 
-![Flowseal's Github Stats](https://github-readme-stats.vercel.app/api?username=AKonLegend&theme=bear&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKonLegend&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
