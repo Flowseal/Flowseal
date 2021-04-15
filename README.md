@@ -12,10 +12,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Follow me
-[![Yougame](https://img.shields.io/badge/-YouGame-090909?style=for-the-badge&logo=Y%20Combinator&logoColor=bd4c4c)](https://yougame.biz/flowseal/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/se11er)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC4RpPf2m3AgdWO7lFTKFfyw)
-[![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=FFFFFF)](https://steamcommunity.com/id/SAAC-/)
+<p align="center">
+  <a href="https://yougame.biz/flowseal"><img src="https://img.shields.io/badge/-YouGame-090909?style=for-the-badge&logo=Y%20Combinator&logoColor=bd4c4c"></a>
+  <a href="https://vk.com/se11er"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
+  <a href="https://www.youtube.com/channel/UC4RpPf2m3AgdWO7lFTKFfyw"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
+  <a href="https://steamcommunity.com/id/SAAC-"><img src="https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=FFFFFF"></a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKonLegend&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
