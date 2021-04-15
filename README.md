@@ -11,7 +11,7 @@
 ![CSharp](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%20Sharp&logoColor=239120)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### Follow me
+<h2 align="center">Follow Me</h1>
 <p align="center">
   <a href="https://yougame.biz/flowseal"><img src="https://img.shields.io/badge/-YouGame-090909?style=for-the-badge&logo=Y%20Combinator&logoColor=bd4c4c"></a>
   <a href="https://vk.com/se11er"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
