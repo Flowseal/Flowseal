@@ -1,3 +1,9 @@
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 <p align="center">
   <img src="https://github.com/AKonLegend/AKonLegend/blob/main/Flowseal.gif?raw=true" />
 </p>
@@ -17,5 +23,4 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC4RpPf2m3AgdWO7lFTKFfyw)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=FFFFFF)](https://steamcommunity.com/id/SAAC-/)
 
-![Flowseal's Github Stats](https://github-readme-stats.vercel.app/api?username=AKonLegend&theme=bear&show_icons=true&hide_border=true&count_private=true)
-[![Flowseal's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKonLegend)](https://github.com/anuraghazra/github-readme-stats)
+![Flowseal's Github Stats](https://github-readme-stats.vercel.app/api?username=AKonLegend&theme=bear&show_icons=true&hide_border=true&count_private=true?style=centerme)
