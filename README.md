@@ -15,3 +15,5 @@
 [![Yougame](https://img.shields.io/badge/-YouGame-090909?style=for-the-badge&logo=Y%20Combinator&logoColor=bd4c4c)](https://yougame.biz/flowseal/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/se11er)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC4RpPf2m3AgdWO7lFTKFfyw)
+[![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=000000)](https://steamcommunity.com/id/SAAC-/)
+
