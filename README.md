@@ -18,3 +18,4 @@
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=FFFFFF)](https://steamcommunity.com/id/SAAC-/)
 
 ![Flowseal's Github Stats](https://github-readme-stats.vercel.app/api?username=AKonLegend&theme=bear&show_icons=true&hide_border=true&count_private=true)
+[![Flowseal's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKonLegend)](https://github.com/anuraghazra/github-readme-stats)
